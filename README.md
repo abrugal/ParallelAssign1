@@ -6,5 +6,7 @@ The threads are set up in a way so that they all do the same amount of work and 
 Using only one thread this approach took aorund 20 seconds. While with the use of 8 threads it went down to 4 seconds, which is a 500% speed up.
 
 To run this program all you have to do is download the cpp file, and then in the terminal run the command:
-To compile: g++ <source file> -o <you name this file>
-To execute: ./<name you gave>
+
+To compile: g++ \<source file\> -o \<you name this file\>
+
+To execute: ./\<name you gave\>
